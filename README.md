@@ -1,13 +1,18 @@
-# Chitra - Drawing App
+# Chitra - The Ultimate Drawing App 🎨📱
 
 Chitra is a mobile application designed for drawing enthusiasts, providing a seamless and enjoyable drawing experience. The name "Chitra" is derived from the Devanagari word, which means "picture" or "artwork". The app is built using Jetpack and leverages the power of Jetpack Compose for creating stunning visual experiences.
 
 ## Features
 
-- Customizable stroke size and color: Choose your preferred brush size and color to create beautiful drawings with precision.
-- Inbuilt Undo and Redo options: Made a mistake? No worries! Chitra allows you to effortlessly undo or redo your drawing actions.
-- Reset option: Start fresh with just a tap. The reset option clears your canvas and gives you a clean slate for your next masterpiece.
-- Written on [Jetpack Compose](https://developer.android.com/jetpack/compose): Chitra takes advantage of Jetpack Compose, a modern UI toolkit for building native Android apps, to deliver a smooth and responsive drawing experience.
+- 🖌️ Customizable Stroke Size and Color: Express your creativity with Chitra's wide range of stroke sizes and colors. From thin and delicate lines to bold and vibrant strokes, the choice is yours!
+
+- ⏪ Undo and Redo Options: Made a mistake? No worries! Chitra has got you covered with its convenient undo and redo options. Easily correct any errors or experiment fearlessly without limitations.
+
+- 🔄 Reset Option: Need a fresh canvas? Simply tap the reset button and start anew. Chitra allows you to reset your drawing effortlessly, providing endless opportunities for creative exploration.
+
+- 🚀 Powered by [Jetpack Compose](https://developer.android.com/jetpack/compose): Chitra is built on the latest and most advanced Android UI toolkit, Jetpack Compose. Enjoy a seamless and intuitive drawing experience with the power of Jetpack Compose at your fingertips.
+
+- Get ready to unleash your artistic side with Chitra! Download the app now and embark on a journey of creativity and self-expression. 🎉✨
 
 ## Getting Started
 
