@@ -1,6 +1,10 @@
+![ezgif com-video-to-gif](https://github.com/TanotiCoder/Chitra/assets/81159555/e4f285e9-7ec2-431f-82ce-aa21667548e3)
+
 # Chitra - The Ultimate Drawing App 🎨📱
 
 Chitra is a mobile application designed for drawing enthusiasts, providing a seamless and enjoyable drawing experience. The name "Chitra" is derived from the Devanagari word, which means "picture" or "artwork". The app is built using Jetpack and leverages the power of Jetpack Compose for creating stunning visual experiences.
+# Video 
+https://github.com/TanotiCoder/Chitra/assets/81159555/a3743f7d-6f93-499c-aa77-3b6a59da3b3b
 
 ## Features
 
