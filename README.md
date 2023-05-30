@@ -1,10 +1,23 @@
+<!--[Mobile_App-removebg-preview](https://github.com/TanotiCoder/Chitra/assets/81159555/7d8f633d-f4ba-41aa-b2d7-8233ad265332)
+
+  <img src="https://github.com/TanotiCoder/Chitra/raw/main/assets/81159555/7d8f633d-f4ba-41aa-b2d7-8233ad265332.png" alt="Mobile App" align="center"/>
 ![ezgif com-video-to-gif](https://github.com/TanotiCoder/Chitra/assets/81159555/e4f285e9-7ec2-431f-82ce-aa21667548e3)
+
+  --->
+  <p align="center">
+<img src = "https://github.com/TanotiCoder/Chitra/assets/81159555/7d8f633d-f4ba-41aa-b2d7-8233ad265332" align="center" height = "480px"/>
+</p>
+
 
 # Chitra - The Ultimate Drawing App 🎨📱
 
 Chitra is a mobile application designed for drawing enthusiasts, providing a seamless and enjoyable drawing experience. The name "Chitra" is derived from the Devanagari word, which means "picture" or "artwork". The app is built using Jetpack and leverages the power of Jetpack Compose for creating stunning visual experiences.
+
 # Video 
-https://github.com/TanotiCoder/Chitra/assets/81159555/a3743f7d-6f93-499c-aa77-3b6a59da3b3b
+
+<div align="center">
+  <video src="https://github.com/TanotiCoder/Chitra/assets/81159555/a3743f7d-6f93-499c-aa77-3b6a59da3b3b" width="400" />
+</div>
 
 ## Features
 
